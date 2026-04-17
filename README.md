@@ -31,6 +31,7 @@ Criar uma aplicação web utilizando **JavaScript puro (Vanilla JS)** para consu
 
 - 💻 GitHub: https://github.com/Lucas481516/p1-Programa-o-de-S-tios-Internet-FATEC-2026.git
 - 🌐 GitHub Pages: https://lucas481516.github.io/p1-Programa-o-de-S-tios-Internet-FATEC-2026/
+- link da api: https://rickandmortyapi.com/
 
 ---
 
